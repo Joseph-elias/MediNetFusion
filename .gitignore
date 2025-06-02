@@ -1,0 +1,10 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore large data files
+*.npz
+
+# Just in case
+*.dll
+*.lib
