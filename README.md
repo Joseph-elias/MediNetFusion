@@ -1,6 +1,6 @@
 # 🧠 Multimodel Time Series Classification with CNN, LSTM, and XGBoost
 
-This project performs binary classification on time series data using an ensemble of deep learning and classical machine learning models. The goal is to optimize classification performance — particularly the F1 Score — by combining outputs from a CNN, LSTM, and XGBoost through a fusion and threshold tuning strategy.
+This project performs binary classification on time series data using an ensemble of deep learning and classical machine learning models. A multimodal deep learning ensemble to predict Type 2 Diabetes risk within the next year using time series health data.
 
 ---
 
