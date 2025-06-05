@@ -8,3 +8,4 @@ venv/
 # Just in case
 *.dll
 *.lib
+training_labels.csv
